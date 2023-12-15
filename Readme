@@ -1,19 +1,47 @@
-Project Title: Num-Ninja
-Table Of Contents
-[Introduction]
-[Features]
-[Prerequisites]
+# Num-Ninja
 
-Introduction: 
-Welcome to our coding project, where financial management meets complex visualization. 
-Our platform offers a versatile Money Management module, featuring a currency exchanger and simple and compound interest calculators. 
-in combination with a rigid Graphical Visualizer, including bar graphs, pie charts, and line graphs, we give users the opportunity and freedom to master financial decisions with clarity and precision.
+## Table Of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+  - [Install](#install)
+  - [Usage](#usage)
+- [Contribution](#contribution)
 
-Features:
-This project contains Money Management(currency exchanger and simple and compound interest calculator) and  a graphical visualiser for bar graphs, pie charts and line graphs.
+## Introduction
+Welcome to Num-Ninja, a coding project that combines financial management with complex visualization. Our platform offers a versatile Money Management module, featuring a currency exchanger and simple and compound interest calculators. In combination with a robust Graphical Visualizer, including bar graphs, pie charts, and line graphs, we empower users to make informed financial decisions with clarity and precision.
 
-Prerequisites:
-pip install matplotlib;
-pip install tkinter;
-pip install numpy;
-pip install Pillow;
+## Features
+This project contains the following features:
+- Money Management (currency exchanger and simple/compound interest calculator)
+- Graphical Visualizer for bar graphs, pie charts, and line graphs.
+
+## Prerequisites
+ **Install the repo and pycharm, extract the zip file and open it in pycharm.**
+
+##Install
+Ensure you have the following dependencies installed:
+```bash
+pip install matplotlib
+pip install tkinter
+pip install numpy
+pip install Pillow
+
+##Usage
+run the **'main.py'** file
+
+## Contribution
+
+This project was made possible through the collaboration of a talented team.
+
+- **Shamant**:
+  - Role: Coder
+
+- **Daksh**:
+  - Role: Coder
+
+- **Vidur**:
+  - Role: Debugger
+
+
