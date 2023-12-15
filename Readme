@@ -1,1 +1,19 @@
+Project Title: Num-Ninja
+Table Of Contents
+[Introduction]
+[Features]
+[Prerequisites]
 
+Introduction: 
+Welcome to our coding project, where financial management meets complex visualization. 
+Our platform offers a versatile Money Management module, featuring a currency exchanger and simple and compound interest calculators. 
+in combination with a rigid Graphical Visualizer, including bar graphs, pie charts, and line graphs, we give users the opportunity and freedom to master financial decisions with clarity and precision.
+
+Features:
+This project contains Money Management(currency exchanger and simple and compound interest calculator) and  a graphical visualiser for bar graphs, pie charts and line graphs.
+
+Prerequisites:
+pip install matplotlib;
+pip install tkinter;
+pip install numpy;
+pip install Pillow;
